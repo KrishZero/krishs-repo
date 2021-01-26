@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name></name>
+			<url></url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name></name>
+			<url></url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
